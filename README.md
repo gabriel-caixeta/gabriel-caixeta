@@ -18,14 +18,14 @@ Here to develop crazy stuff, learn cool tech and connect with likeminded people.
 [<img align="left" alt="vibhorchaudhary | Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [linkedin]: https://linkedin.com/in/gabriel-caixeta-bonfim/
-[github]: https://github.com/vibhorchaudhary
+[github]: https://github.com/gabriel-caixeta
 [instagram]: https://instagram.com/gabrielcaixeta_/
 
 <br />
 <br />
 
 ### Languages and tools:
-<img align="left" alt="Python" width="28px" src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" />
+<img align="left" alt="Python" width="28px" src="https://p.kindpng.com/picc/s/159-1595772_transparent-python-logo-hd-png-download.png" />
 <img align="left" alt="Android" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" /> 
 <img align="left" alt="Kotlin" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 <img align="left" alt="Java" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
@@ -39,7 +39,7 @@ Here to develop crazy stuff, learn cool tech and connect with likeminded people.
 <br />
 
 ### Github Stats:
-![Gabriel Caixeta's github stats](https://github-readme-stats.vercel.app/api?username=gabriel-caixeta&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
+![Gabriel Caixeta's github stats](https://github-readme-stats.vercel.app/api?username=gabriel-caixeta&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars,prs)
 <br />
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-caixeta)
