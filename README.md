@@ -39,7 +39,4 @@ Here to develop crazy stuff, learn cool tech and connect with likeminded people.
 <br />
 
 ### Github Stats:
-![Gabriel Caixeta's github stats](https://github-readme-stats.vercel.app/api?username=gabriel-caixeta&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars,prs)
-<br />
-<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-caixeta)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-caixeta)　![Gabriel Caixeta's github stats](https://github-readme-stats.vercel.app/api?username=gabriel-caixeta&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars,prs)
