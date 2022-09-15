@@ -19,7 +19,6 @@ Here to develop crazy stuff, learn cool tech and connect with likeminded people.
 
 [linkedin]: https://linkedin.com/in/gabriel-caixeta-bonfim/
 [github]: https://github.com/gabriel-caixeta
-[instagram]: https://instagram.com/gabrielcaixeta_/
 
 <br />
 <br />
