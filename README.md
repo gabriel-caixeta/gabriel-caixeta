@@ -15,7 +15,6 @@ Here to develop crazy stuff, learn cool tech and connect with likeminded people.
 ### Connect with me:
 [<img align="left" alt="vibhorchaudhary | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="vibhorchaudhary | GitHub" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="vibhorchaudhary | Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [linkedin]: https://linkedin.com/in/gabriel-caixeta-bonfim/
 [github]: https://github.com/gabriel-caixeta
